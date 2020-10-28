@@ -1,0 +1,8 @@
+Client Income Analysis 
+--------------------- 
+Employer: UNITED AIRLINES 
+Current Monthly Income: $500 
+Projected Year's Income Before Tax: $7389 
+Projected Year's Income After Tax: $6085 
+Last Year's Income Before Tax: $7285 
+Last Year's Income After Tax: $6000 

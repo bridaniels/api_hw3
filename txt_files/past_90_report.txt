@@ -1,0 +1,18 @@
+Client Yearly Budget Spend 
+---------------------------- 
+                  amount
+category                
+Food and Drink   3317.19
+Payment          6310.50
+Recreation        235.50
+Shops            1500.00
+Transfer        20537.34
+Travel             35.19
+ 
+Client Montly Expenses 
+---------------------------- 
+         amount
+month          
+8      10645.24
+9      10645.24
+10     10645.24
